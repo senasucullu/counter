@@ -1,1 +1,1 @@
-# counter
+# counter app
